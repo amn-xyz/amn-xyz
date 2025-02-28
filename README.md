@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Databricks, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [amnhd.com](amnhd.com)
+- 👨‍💻 All of my projects are available at [amnhd.com](https://www.amnhd.com/)
 
 - 💬 Ask me about **Front-end Development, Data Science**
 
