@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amaan Mohammed</h1>
 <h3 align="center">A new grad software developer and an aspiring data scientist.</h3>
 
-- 🌱 I’m currently learning **Databricks, Machine Learning**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [amnhd.com](https://www.amnhd.com/)
 
-- 💬 Ask me about **Front-end Development, Data Science**
+- 💬 Ask me about **Front-end Development, and how Elden Ring is like software development**
 
 - 📫 How to reach me **amaan.mmrar@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/13_FxcMCmJL-UrXLWspDk5ScjHooVfwHg/view)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1HKW7CuesgZLSDH7EjLMfNcnMVmD3_GT1/view)
 
 - ⚡ Fun fact **I am a powerlifter with a 445kg total summing up my squat, bench, and deadlift. I also love freestyle dancing and building outfits as a form of self-expression.**
 
