@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Mohammed</h1>
-<h3 align="center">A new grad software developer and an aspiring data scientist.</h3>
+<h3 align="center">A new grad software developer and data scientist.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
